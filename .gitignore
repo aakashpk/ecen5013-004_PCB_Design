@@ -4,3 +4,5 @@
 *.Zip
 *.LOG
 *.lia
+/golden_arduino/__Previews
+*.OutJob

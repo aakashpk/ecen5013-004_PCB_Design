@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [golden_arduino.PrjPcb]
+   Generated File[golden_arduino.TXT]
+   Generated File[golden_arduino.DRL]
+   Generated File[golden_arduino.LDP]
+   Generated File[golden_arduino.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:08:03 AM On 3/11/2019

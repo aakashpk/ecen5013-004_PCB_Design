@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: golden_arduino.PcbDoc   3/11/2019  5:08:03 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : golden_arduino.TXT
+EIA File   : golden_arduino.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.33mm)                                            Round             46        PTH        18.97inch (481.83mm)
+T2      28mil (0.7mm)                                             Round             5         PTH        0.25inch (6.24mm)
+T3      32mil (0.8mm)                                             Round             4         PTH        0.67inch (16.90mm)
+T4      35mil (0.9mm)                                             Round             85        PTH        14.92inch (378.88mm)
+T5      39mil (1mm)                                               Round             3         PTH        0.46inch (11.58mm)
+T6      125mil (3.175mm)                                          Round             4         PTH        10.22inch (259.71mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              147
+
+Total Processing Time (hh:mm:ss) : 00:00:00
